@@ -1,0 +1,27 @@
+html {
+    cursor: none;
+}
+
+@font-face {
+    font-family: myDino;
+    src: url(CheshireInitials.ttf);
+}
+
+body{
+    overflow-x: hidden;
+	background-color: azure;
+    background-image: url(tumblr_niudesZGDL1tksqmwo1_500.gif);
+    background-size: cover;
+}
+
+#myName{
+    font-family: myDino;
+    font-size: 400px;
+    margin-top: 15%;
+
+
+}
+
+#wrapper {
+
+}
